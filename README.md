@@ -23,5 +23,5 @@ Rules for a func starting a subprocess are:
  `ctx.Err()` ie the subprocess exits because the context controlling it's lifetime
  has been cancelled).
 
-See the [httpsrv example project](https://github.com/ainvaltin/httpsrv/examples/errgroup/)
+See the [httpsrv example project](https://github.com/ainvaltin/httpsrv)
 for more.
